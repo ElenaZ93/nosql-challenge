@@ -117,7 +117,8 @@ Unless otherwise stated, for each question:
 
 The first 5 rows of your resulting DataFrame should look something like this:
 
-**ADD IMAGE**
+![README IMAGE](Resources/Captura%20de%20pantalla%202024-08-22%20152037.png)
+
 
 ### References:
 
